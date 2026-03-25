@@ -101,7 +101,8 @@ python main.py \
 
 ### First Appearance
 
-## [application dashboard image](data/screenshots/dashboard1.png)
+## [application dashboard image](data/screenshoots
+/dashboard1.png)
 
 ### Second Appearance
 
