@@ -1,10 +1,10 @@
-# 🧹 DataCleaner Pro buit by kihagama ismael, student of Mbarara University of Science and Technology
+## DataCleaner Pro 
 
 A production-ready Python tool for **automated data cleaning, quality reporting, and interactive visualisation**. Supports CSV, Excel, JSON, and SQL databases with a full Streamlit dashboard.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 data_cleaner/
@@ -100,16 +100,12 @@ python main.py \
 | **Export**         | Download cleaned data as CSV / Excel / JSON                                       |
 
 ### First Appearance
-
-## [application dashboard image](data/screenshoots
-/dashboard1.png)
+ [application dashboard image](data/screenshoots/dashboard1.png)
 
 ### Second Appearance
-
-## [application dashboard image](data/screenshots/dashboard2.png)
+[application dashboard image](data/screenshots/dashboard2.png)
 
 ## Data Quality Report
-
 [data quality report image](data/screenshots/quality%20report.png)
 
 ## CLI Reference
